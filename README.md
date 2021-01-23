@@ -5,7 +5,6 @@ babystep
 * [snippets](https://github.com/Wine93/snippets.git)
 * [dashdoc](https://github.com/Wine93/dashdocs.git)
 * [dot-files](https://github.com/Wine93/dotfiles)
-
 * [learn-bolt](https://github.com/Wine93/learn-bolt)
 * [learn-goleveldb](https://github.com/Wine93/learn-goleveldb)
 * [learn-redis-5.0](https://github.com/Wine93/learn-redis-5.0)
